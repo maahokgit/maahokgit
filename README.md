@@ -2,24 +2,29 @@
 
 **Web Application Developer based in Halifax, Nova Scotia, working locally and remotely.**
 
-I build, improve, and maintain web applications focused on practical architectures, clean code, and business outcomes. Before pivoting into software engineering, I worked directly with clients—an experience that shapes how I approach problems today: diagnosing the core need first, selecting the right tool for the job, and eliminating unnecessary operational bloat.
+I see myself as both a problem solver and a connector. I have over 8 years of software development experience, with the last 4 years focused heavily on React, JavaScript, and TypeScript. I enjoy understanding how things work, diagnosing what's causing a problem, and building practical, easy-to-maintain solutions.
+
+Much of my work centers on existing applications: developing new features, troubleshooting production bugs, and integrating tools like Sentry and Pendo to keep systems running smoothly.
 
 ---
 
-### What I Do
+### What I Work On
 
-- **Modern Web Interfaces:** Building accessible, responsive frontends in **React** and **TypeScript**.
-- **Existing Codebase Support:** Adding features, refactoring legacy components, and improving maintainability within established systems.
-- **Pragmatic Integrations:** Connecting REST APIs, configuring third-party analytics pipelines, and streamlining data flow.
-- **Enterprise Experience:** Experience with **C#**, **.NET**, and **SQL** from building custom enterprise tracking and data pipelines at Modest Tree.
+- **React & TypeScript:** Building reliable interfaces, adding features, and modernizing frontend code.
+- **Existing Codebase Support:** Digging into established codebases, tracking down difficult bugs, and making applications easier to maintain without requiring a full rebuild.
+- **Integrations & Analytics:** Implementing tracking pipelines (Google Analytics 4, StatsD), connecting REST APIs, and monitoring app health.
+- **Broader Systems Experience:** Solid background in SQL, C# / .NET, database development, and e-commerce from previous software engineering roles.
 
 ---
 
-### Community & Leadership
+### Community & Halifax Tech
 
-- **POC & Lead Organizer** at [DEFCON Halifax (DC902)](https://dc902.ca) — Halifax's cybersecurity meetup community.
-- **Chapter Lead** at Data for Good Maritimes, connecting volunteers with nonprofits to solve practical data challenges.
-- **Member** of the Order of St. John (MStJ) and long-time medical first responder volunteer.
+Whether working on code or bringing people together, I like finding ways to make things work better across the local tech community:
+
+- **Chapter Lead** at Data For Good Maritimes
+- **Organizer & POC** at [DEFCON Halifax (DC902)](https://dc902.ca)
+- **Connector** with the Halifax Partnership Connector Program
+- **Volunteer Medical Responder** & Member of the Order of St. John (MStJ)
 
 ---
 
@@ -28,3 +33,5 @@ I build, improve, and maintain web applications focused on practical architectur
 - 🌐 **Portfolio & Services:** [edwardma.ca](https://edwardma.ca/)
 - 💼 **LinkedIn:** [/in/maahokgit](https://www.linkedin.com/in/maahokgit)
 - 💬 **X / Twitter:** [@Maahokgit](https://x.com/Maahokgit)
+
+*Always open to part-time freelance projects, contract application maintenance, or chatting about the Atlantic Canada tech community.*
